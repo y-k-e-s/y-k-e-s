@@ -11,7 +11,7 @@ To check that you can take a look at my public repositories:
 
 Right now I'm focusing on functional programing in Java.  
 
-Curently reading Joshua Bloch Effective Java.
+Curently reading *Effective Java* by Joshua Bloch.
 
 
 
