@@ -9,7 +9,7 @@ To check that you can take a look at my public repositories:
 
 :point_right: [MVCbookstore](https://github.com/y-k-e-s/MVCbookstore) is a little bit more advanced (due to use of Spring, Hibernate etc).
 
-Right now I'm focusing on functional programing in Java.  
+Right now I'm focusing on functional programming in Java.  
 
 Curently reading *Effective Java* by Joshua Bloch.
 
